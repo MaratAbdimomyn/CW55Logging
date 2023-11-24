@@ -1,0 +1,7 @@
+Watching for file changes with StatReloader
+C:\Users\Abdimomyn\Обучение IT Step Котики\Study Marat\05 Django\Классные работы\DJ CW55 20231124\zero55\zero55\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
